@@ -4,7 +4,9 @@
 mas não foi atribuida nenhum valor */
 
 /* null ---> significa que a variavel foi declarada,
-e foi atribuido o valor null, ou seja, não tem valor nenhum */
+e foi atribuido o valor null, ou seja, não tem valor nenhum 
+O null é um erro de implementação do JS, pois o tipo é um object e não um valor
+nulo*/
 
 // exemplo undefined
 // let varTest;

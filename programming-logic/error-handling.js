@@ -10,4 +10,6 @@ try {
     console.log(sum(3, 2.9));
 } catch (error) {
     console.log(`${error}`);
+} finally {
+    console.log('bloco finally');
 }
